@@ -1,0 +1,7 @@
+[uoo6uoow] Tue May 20 11:17:38 2025 +0900 Add analysis class diagram 1d5f6cb
+[uoo6uoow] Tue May 20 07:11:57 2025 +0900 Modify Communication Diagram 0caf5d4
+[uoo6uoow] Tue May 20 06:42:13 2025 +0900 Add Communication Diagram 74381b4
+[uoo6uoow] Tue May 20 01:47:07 2025 +0900 Add UseCase Descriptions fe34dba
+[uoo6uoow] Tue May 20 00:24:55 2025 +0900 Add UseCase Diagram 9f6e782
+[uoo6uoow] Mon May 19 23:58:06 2025 +0900 Add Requirement List c206ec7
+[uoo6uoow] Mon May 19 22:59:26 2025 +0900 Initial commit f09fbb2
